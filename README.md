@@ -35,4 +35,4 @@ https://github.com/anuraghazra/github-readme-stats
 [![stars](https://img.shields.io/github/stars/fangjian98/fangjian98)](https://github.com/fangjian98/fangjian98/stargazers)
 [![forks](https://img.shields.io/github/forks/fangjian98/fangjian98)](https://github.com/fangjian98/fangjian98/network/members)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fangjian98&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fangjian98&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
