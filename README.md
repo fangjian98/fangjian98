@@ -1,4 +1,4 @@
-### Hi there,I'm Fangjian 👋
+### Hi, I'm Fangjian 👋
 
 <!--
 **fangjian98/fangjian98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--
+### Hi there,I'm Fangjian 👋
+
 emoji:
 https://emoji.muan.co/
 
@@ -30,9 +32,13 @@ Github Home Readme
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-
+<!--
 [![social](https://img.shields.io/github/followers/fangjian98)](https://github.com/fangjian98?tab=followers)
 [![stars](https://img.shields.io/github/stars/fangjian98/fangjian98)](https://github.com/fangjian98/fangjian98/stargazers)
 [![forks](https://img.shields.io/github/forks/fangjian98/fangjian98)](https://github.com/fangjian98/fangjian98/network/members)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fangjian98&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fangjian98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangjian98&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
