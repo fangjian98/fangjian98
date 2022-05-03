@@ -30,6 +30,13 @@ https://shields.io/
 
 Github Home Readme
 https://github.com/anuraghazra/github-readme-stats
+
+Github Visitor
+[![Github Visitor](https://visitor-badge.laobi.icu/badge?page_id=fangjian98.fangjian98)](https://github.com/fangjian98/)
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=fangjian98.fangjian98" alt="visitor badge"/>       
+</p>
 -->
 
 <!--
